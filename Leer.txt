@@ -1,0 +1,7 @@
+La app permite lanzar todas las funcionalidades desde main_alumnos238. 
+"Local" lanza la app sin conexión.
+"Cliente" lanza la app como cliente
+"Servidor" lanza el servidor 
+
+Por alguna razón que no logro entender, si la app es lanzada como cliente desde consola los archivos tendrán una ruta distinta 
+a la usada por Visual Studio Code por lo que la base de datos y el registro de cambios del servidor pueden no aparecer como corresponde
